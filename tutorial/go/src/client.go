@@ -25,7 +25,7 @@ import (
 	"fmt"
 	"tutorial"
 
-	"github.com/apache/thrift/lib/go/thrift"
+	"github.com/cdvr1993/thriftv0.13.0/lib/go/thrift"
 )
 
 var defaultCtx = context.Background()

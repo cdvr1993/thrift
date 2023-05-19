@@ -24,7 +24,7 @@ import (
 )
 
 // THeaderProtocol is a thrift protocol that implements THeader:
-// https://github.com/apache/thrift/blob/master/doc/specs/HeaderFormat.md
+// https://github.com/cdvr1993/thriftv0.13.0/blob/master/doc/specs/HeaderFormat.md
 //
 // It supports either binary or compact protocol as the wrapped protocol.
 //
