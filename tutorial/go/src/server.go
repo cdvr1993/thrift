@@ -22,7 +22,7 @@ package main
 import (
 	"crypto/tls"
 	"fmt"
-	"github.com/apache/thrift/lib/go/thrift"
+	"github.com/cdvr1993/thrift/lib/go/thrift"
 	"tutorial"
 )
 
